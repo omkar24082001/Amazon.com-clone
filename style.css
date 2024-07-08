@@ -26,7 +26,7 @@
 
 .border{
     border: 1.5px solid transparent;
-    padding: 3px;
+    
 }
 
 .border:hover{
@@ -144,4 +144,66 @@ border: none;
     color: #ffff;
     font-size: 14px;
     font-weight: bold;
+}
+
+/* nav-xshop */
+.nav-xshop{
+    background-color: #232f3e;
+    height: 40px;
+    display: flex;
+    /* justify-content:flex-start; */
+  
+}
+.xshop-box1{
+    color: white;
+    width: 60px;
+    height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+ 
+}
+.box1-{
+      margin-left: 5px;
+      color: #ffff;
+      font-size: 14px;
+      font-weight: bold;
+}
+
+.xshop-box2{
+    color: #ffff;
+    font-size: 14px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.herobanner{
+    background-image: url(images/hero1.jpg);
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.hero-msg{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    width:90%;
+   margin-bottom: 230px;
+  
+}
+
+.hero-msg a{
+    color: #007185;
+    
+
+
 }

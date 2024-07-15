@@ -302,4 +302,15 @@ border: none;
     margin-top: 40px;
 } 
 
+.fullbox{
+    justify-content: center;
+    border: 0.1px solid rgb(223, 223, 223);
+    height: 250px;
+    width: 1308px;
+    margin-left: 20px;
+    margin-right: 10px;
+    background-color: #ffffffde;
+    margin-top: 18px;  
+}
+
 

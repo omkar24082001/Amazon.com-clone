@@ -278,13 +278,13 @@ border: none;
     margin-top: 20px;
  
 }
-.shoplink1{
+/* .shoplink1{
     font-size: 13px;
     margin-left: 26px;
     margin-top: 38px;
     color: rgb(0, 183, 255);
 
-}
+} */
 
 .imagesbox3{
     display: flex;
@@ -298,13 +298,8 @@ border: none;
 .imagesbox4{
     display: flex;
     justify-content: space-around;
-   
-    margin-top: 35px;
+    height: 62px;
+    margin-top: 40px;
 } 
 
-.im{
-    font-size: 12px;
-    
-
-}
 
